@@ -1,0 +1,63 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.gz
+
+# Runtime data
+pids/
+*.pid
+*.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript
+dist/
+build/
+*.tsbuildinfo
+
+# React build output
+build/
+
+# Misc
+.DS_Store
+Thumbs.db
+
+# dotenv environment variable files
+.env
+.env.*.local
+
+# Next.js build output (if using Next.js)
+.next/
+
+# VSCode settings
+.vscode/
+
+# MacOS
+.idea/
+
+# Windows
+*.exe
+*.dll
+*.pdb
+
+# Yarn
+yarn-debug.log*
+yarn-error.log*
+
+# JetBrains IDEs (e.g., WebStorm)
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Webpack build files
+webpack.config.js
