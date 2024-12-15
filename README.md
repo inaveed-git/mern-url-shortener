@@ -3,6 +3,7 @@
 A URL shortener application built using the MERN stack (MongoDB, Express, React, Node.js) with TypeScript. This application allows users to shorten long URLs, manage and track them. It provides a user-friendly interface for managing URLs and includes a powerful backend for URL shortening and redirection.
 
 
+
 ## Features
 
 - **URL Shortening**: Convert long URLs into shortened, shareable links.
@@ -10,6 +11,12 @@ A URL shortener application built using the MERN stack (MongoDB, Express, React,
 - **Click Tracking**: Track the number of clicks on each short URL.
 - **Responsive UI**: A user-friendly, mobile-responsive frontend built with React and Tailwind CSS.
 
+## Screenshots
+
+Here are some screenshots of the project:
+
+![shotone](frontend/public/screenshots/g1.PNG)
+![shottwo](frontend/public/screenshots/g2.PNG)
 
 ## Technologies
 
