@@ -94,7 +94,9 @@ Once the application is running, you can use the following features:
 ### Keywords
 `URL Shortener`, `MERN Stack`, `Node.js`, `Express`, `React`, `TypeScript`, `MongoDB`, , `Full-Stack Web Development`
 
-   
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
    
 
 
